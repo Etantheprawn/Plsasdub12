@@ -7,5 +7,3 @@ A bookmarklet is an executable Javascript code that can be assigned to a bookmar
 ### How do I add the bookmarklets to my bookmarks bar?
 
 You just need to go to my site, and drag and drop the hyperlinked bookmarklets onto your bookmarks bar; They are already ready to be used!
-
-Helped By EMK7
