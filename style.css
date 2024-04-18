@@ -1,0 +1,41 @@
+.btn {
+  height: 50px;
+  width: 50px;
+  line-height: 58px;
+  font-size: 2em;
+  border-radius: 50%;
+  background-color: rgb(59, 57, 57);
+  color: white;
+  text-align: center;
+  cursor: pointer;
+  position: fixed;
+  bottom: 1%;
+  right: 1%;
+  box-shadow: 0 3px 5px -1px rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.14), 0 1px 18px 0 rgba(0, 0, 0, 0.12);
+  transition: all .3s ease-in-out;
+}
+
+.btn:hover {
+  border-radius: 5%;
+  height: 500px;
+  width: 200px; 
+  cursor: pointer;
+}
+
+.text {
+  color: #FBFCFC;
+  opacity: 75;
+  text-align: center;
+  padding-top: 1px;
+  transition: all .3s ease-in-out;
+}
+
+.btn:hover .text {
+  padding-top: 1px;
+  opacity: 20;
+}
+.app-link{
+  font-family: 'Montserrat', sans-serif;
+}
+
+body { background-image: url(https://avatars.githubusercontent.com/u/44658109?v=4); }
